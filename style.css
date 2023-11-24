@@ -1,0 +1,40 @@
+.beige {
+    display: flex;
+    justify-content: space-around;
+    width: 600PX;
+    background-color: #FFF4E0;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    padding: 10px 10px 10px 10px;
+}
+
+.orange {
+    display: flex;
+    justify-content: space-around;
+    display: flex;
+    width: 600PX;
+    background-color: #FFBF9B;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    padding: 10px 10px 10px 10px;
+}
+
+.rouge {
+    background-color: #A83F3F;
+    border-radius: 20px;
+    color: white;
+
+}
+
+.bleu {
+    background-color: #4848B3;
+    border-radius: 20px;
+    color: white;
+}
+
+section {
+    background-color: #59958D;
+    width: 700px;
+
+
+}
